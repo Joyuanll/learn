@@ -1,0 +1,25 @@
+{
+  "name": "cli-t",
+  "version": "1.0.1",
+  "description": "cli-t",
+  "main": "cli.js",
+  "bin": "./bin/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joy",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "chalk": "^4.1.2",
+    "commander": "^8.2.0",
+    "cross-spawn": "^7.0.3",
+    "figlet": "^1.5.2",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.2.0",
+    "ora": "^6.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router": "^5.2.1"
+  }
+}
